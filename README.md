@@ -12,11 +12,11 @@ light up and the electrical signal travel through every wheel.
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Unity-App-Enigma-Cipher](https://trysac.github.io/Unity-App-Enigma-Cipher/)
+- **In your browser:** [trysac.github.io/g018-enigma-cipher](https://trysac.github.io/g018-enigma-cipher/)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Unity-App-Enigma-Cipher.git
+  git clone https://github.com/Trysac/g018-enigma-cipher.git
   ```
 
 ## Run it
